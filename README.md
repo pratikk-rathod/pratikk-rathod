@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ## 🧑‍💻 About Me  
 - 🎯 Full Stack Developer & AI Developer at **Tata Consultancy Services (TCS)** — since **January 2025**  
 - 📍 Based in Mumbai, India  
-- 🎓 B.E. in Computer Engineering with **8.91 CGPA**  
+- 🎓 B.E. in Computer Engineering 
 - 🚀 Passionate about Full Stack Development, Systems Engineering, AI, and building impactful real-world solutions  
 - 🧩 Solved **500+ DSA problems** across LeetCode, HackerRank, and other platforms  
 - 🏆 **Smart India Hackathon 2022 Winner** — Cyber Security Domain  
@@ -53,14 +53,14 @@ You can click the Preview link to take a look at your changes.
 - 🔥 Solved **500+ DSA questions** across platforms  
 - 🥇 Top performer in **Zensar Employability Skill Program**  
 - 🎖 Completed **JPMorgan Chase Software Engineering Virtual Program**  
-- 🎓 Scored **98%** in Google Digital Garage Workshop  
+
 
 ---
 
 ## 🚀 Technical Skills
 
 ### **Languages**
-- Python, Java, JavaScript, TypeScript, HTML, CSS, PHP
+- Python, Java, JavaScript, TypeScript
 
 ### **Frameworks & Libraries**
 - Angular, Spring Boot, Django, ReactJS, Node.js  
@@ -78,46 +78,19 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🛠️ Featured Projects
-
-### 🔹 **PyScan — Network Scanning Tool**  
-**Python, Linux, MySQL, Scapy, PyShark**  
-- Built a LAN security tool for **100% real-time detection** of unauthorized devices  
-- Reduced development cost by **80%** with Python automation  
-- Winner of **Smart India Hackathon 2022**
-
----
-
-### 🔹 **Binary Shop — E-Commerce Website**  
-**HTML, CSS, JavaScript, PHP, MySQL**  
-- Fully functional e-commerce platform  
-- Improved website performance by **25%**  
-- Implemented end-to-end SDLC
-
----
-
-### 🔹 **Web Helper**  
-**Django, Python, Selenium**  
-- Built a WebApp for network monitoring, site blocking & speed testing  
-- Enhanced IT team efficiency by **30%**, reduced disruptions by **20%**  
-- Strengthened parental control features used by 90%+ users  
-
----
 
 ## 📊 GitHub Stats
 
-![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikk-rathod&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk-rathod&layout=compact&theme=github_dark)
 
 ---
 
 ## 🔗 Profiles  
-- **GitHub:** https://github.com/YOUR_USERNAME  
-- **LinkedIn:** YOUR_LINKEDIN_URL  
-- **LeetCode:** YOUR_LEETCODE_URL  
-- **HackerRank:** YOUR_HACKERRANK_URL  
-- **Portfolio:** YOUR_PORTFOLIO_URL  
-
+- **GitHub:** https://github.com/pratik-rathod  
+- **LinkedIn:** https://www.linkedin.com/in/pratikk-rathod/  
+- **LeetCode:** https://leetcode.com/u/Pratikk_Rathod/
+- **HackerRank:**  https://www.hackerrank.com/profile/pratikk_rathod
 ---
 
 ## ✨ Quote I Live By  
@@ -127,7 +100,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 📬 Contact  
 📧 **pratikr8132@gmail.com**  
-📞 **+91 82378 37016**
 
 Feel free to connect, collaborate, or explore my projects! 🚀
 
