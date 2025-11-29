@@ -1,5 +1,4 @@
-<!-- ==================== HACKER TERMINAL INTRO ==================== -->
-
+<!-- HACKER TERMINAL INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=Initializing+Pratik+Rathod's+Cyber+Profile...;Loading+Full+Stack+Developer+Modules...;Activating+AI+Systems...;Access+Granted+%E2%9C%94%EF%B8%8F" />
 </p>
@@ -21,8 +20,7 @@
 
 ---
 
-<!-- ==================== CYBERPUNK NEON HEADER ==================== -->
-
+<!-- CYBERPUNK NEON HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=7DF9FF&center=true&vCenter=true&width=900&lines=⚡+Pratik+Rathod+⚡;Full+Stack+Developer;AI+Developer;System+Engineer+@+TCS;Cyberpunk+Mode+Activated+🚀" />
 </p>
@@ -77,12 +75,35 @@ const pratik = {
   ],
   motto: "Consistency beats talent when talent doesn't work hard."
 };
+```
 
+---
 
+### 🧩 Tech Arsenal — Cyberpunk Edition
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,angular,react,spring,bootstrap,django,nodejs,postgres,mysql,mongodb,gcp,git,docker,linux&theme=dark" />
+</p>
 
-🧩 Tech Arsenal — Cyberpunk Edition
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,angular,react,spring,bootstrap,django,nodejs,postgres,mysql,mongodb,gcp,git,docker,linux&theme=dark" /> </p>
-📊 GitHub Intelligence Dashboard
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratikk-rathod&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk-rathod&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pratikk-rathod&theme=matrix&no-frame=true&row=1&column=7" /> </p>
-📡 Connect in the Cyber Grid
-<p align="center"> <a href="https://www.linkedin.com/in/pratikk-rathod/"><img src="https://img.shields.io/badge/LinkedIn-Pratik%20Rathod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/pratikk-rathod"><img src="https://img.shields.io/badge/GitHub-pratikk--rathod-171515?style=for-the-badge&logo=github"/></a> <a href="https://leetcode.com/u/pratikk_rathod/"><img src="https://img.shields.io/badge/LeetCode-pratikk__rathod-FFA116?style=for-the-badge&logo=leetcode"/></a> <a href="https://www.hackerrank.com/profile/pratikk_rathod"><img src="https://img.shields.io/badge/HackerRank-pratikk__rathod-2EC866?style=for-the-badge&logo=hackerrank"/></a> <a href="https://rathodpratik.me"><img src="https://img.shields.io/badge/Portfolio-Visit-7DF9FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a> </p> <p align="center"> <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/line-neon.gif" width="100%" /> <br/> <b>“If it excites you and scares you — do it.”</b> </p> ```
+### 📊 GitHub Intelligence Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikk-rathod&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk-rathod&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikk-rathod&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
+
+### 📡 Connect in the Cyber Grid
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratikk-rathod/"><img src="https://img.shields.io/badge/LinkedIn-Pratik%20Rathod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/pratikk-rathod"><img src="https://img.shields.io/badge/GitHub-pratikk--rathod-171515?style=for-the-badge&logo=github"/></a>
+  <a href="https://leetcode.com/u/pratikk_rathod/"><img src="https://img.shields.io/badge/LeetCode-pratikk__rathod-FFA116?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://www.hackerrank.com/profile/pratikk_rathod"><img src="https://img.shields.io/badge/HackerRank-pratikk__rathod-2EC866?style=for-the-badge&logo=hackerrank"/></a>
+  <a href="https://rathodpratik.me"><img src="https://img.shields.io/badge/Portfolio-Visit-7DF9FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+</p>
+
+---
+
+> *“If it excites you and scares you — do it.”*
+
