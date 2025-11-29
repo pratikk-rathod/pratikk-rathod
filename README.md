@@ -41,19 +41,10 @@
 
 ---
 
-## ⚔️ About Me — The Developer in the Cyber Grid
+## ⚡ My Cyber Bio (JS Object)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260"  z-index="999999">
 
-- 🚀 **System Engineer @ TCS (2025–Present)**
-- 🧠 AI Developer — ML · Data Automation
-- 🎓 B.E. Computer Engineering · **CGPA 8.91**
-- 🌐 Portfolio: **https://rathodpratik.me**
-- 📍 Mumbai, India
-
----
-
-## ⚡ My Cyber Bio (JS Object)
 
 ```javascript
 const pratik = {
@@ -77,6 +68,18 @@ const pratik = {
   motto: "Consistency beats talent when talent doesn't work hard."
 };
 ```
+---
+
+## ⚔️ About Me — The Developer in the Cyber Grid
+
+
+- 🚀 **System Engineer @ TCS (2025–Present)**
+- 🧠 AI Developer — ML · Data Automation
+- 🎓 B.E. Computer Engineering · **CGPA 8.91**
+- 🌐 Portfolio: **https://rathodpratik.me**
+- 📍 Mumbai, India
+
+
 
 ---
 
